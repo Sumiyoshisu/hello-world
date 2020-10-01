@@ -1,2 +1,6 @@
 # hello-world
-first repository
+
+Hi Humans!
+
+Sumiyoshisu here, I like games and Node.js.
+Yarrraaaaaaaa!
